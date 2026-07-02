@@ -1,4 +1,4 @@
-# for loop array
+# for loop arrayy
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
